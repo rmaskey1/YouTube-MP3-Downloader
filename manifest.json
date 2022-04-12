@@ -1,0 +1,13 @@
+{
+	"name": "YouDownload",
+    "manifest_version": 2,
+	"version": "1.0",
+	"description": "Download MP3 of YouTube video.",
+    "browser_action": {
+        "default_icon": "yd_logo_48.png",
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
